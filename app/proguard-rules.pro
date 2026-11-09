@@ -1,0 +1,2 @@
+-keep class com.prakharkumar.homeinventory.data.database.entity.** { *; }
+-dontwarn org.jetbrains.annotations.**
